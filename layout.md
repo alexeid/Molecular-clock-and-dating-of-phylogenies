@@ -1,4 +1,4 @@
 abstract.tex
 introduction.tex
-molecularClockModels.tex
+Molecular Clock Models.tex
 results_table.tex
